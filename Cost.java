@@ -1,3 +1,5 @@
+//This is shopping cart code and ithas three flies which are AddProduct.java, Cost.java,Product.java
+
 import javax.servlet.*;
 import javax.servlet.http.*;
 import java.io.*;
