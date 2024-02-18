@@ -36,5 +36,3 @@ public class DropDown1 extends HttpServlet
 
 }
 
-
-
