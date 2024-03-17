@@ -12,7 +12,6 @@ PrintWriter out=response.getWriter();
 out.println("<html>");
 out.println("<body bgcolor='pink'>");
 
-
 out.println("<p>color tag used here</p><br>");
 out.println("<h3>Heading tag used here</h3><br>");
 out.println("<b>bold tag used here</b><br>");
