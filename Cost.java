@@ -75,7 +75,3 @@ public class Cost extends HttpServlet
     }
 
 }
-
-
-
-
