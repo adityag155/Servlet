@@ -8,7 +8,6 @@ import java.util.*;
 
 public class Cost extends HttpServlet 
 {
-
     public void doGet(HttpServletRequest request, HttpServletResponse response)
     throws IOException, ServletException
     {
