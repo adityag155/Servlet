@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Session1 extends HttpServlet
 {
-public void deGet(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
+public void doGet(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
 {
 response.setContentType("text/html"); 
 PrintWriter out=response.getWriter();
