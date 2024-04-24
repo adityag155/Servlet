@@ -25,7 +25,3 @@ public class One1 extends HttpServlet
     }
 
 }
-
-
-
-
